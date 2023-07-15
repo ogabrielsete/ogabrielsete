@@ -39,7 +39,7 @@ public class QuemSouEu
         "Escutar música",
         "Ler livros sobre desenvolvimento pessoal e mercado financeiro.",
         "Aprender algo novo",
-        "Passar dias procurando formas de melhorar meu código.."
+        "Passar dias procurando formas de melhorar meu código..",
         "Fazer exercicio físico"
 
     };
