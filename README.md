@@ -4,9 +4,9 @@ Gabriel, desenvolvedor backend in ???
 </p>
 
 ### Um pouco sobre mim
-- 📍 Moro em Atibaia/SP e sou um desenvolvedor de software que sempre teve a paixão pela tecnologia.
+- 📍 Moro em Atibaia/SP e sou um desenvolvedor de software que sempre esteve conectado e envolvido com tecnologia.
 - 👯‍♂️ Procuro uma oportunidade para fazer parte de uma equipe de desenvolvimento de software dinâmica e desafiadora, onde possa aplicar minhas habilidades técnicas e colaborar com soluções criativas.
-- 🛠 Atualmente estou trabalhando em <a href="https://github.com/ogabrielsete/CarZone">um projeto </a>utilizando .NET 6 com a arquitetura MVC. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades para fornecer soluções eficientes e de alta qualidade.
+- 🛠 Atualmente estou trabalhando em <a href="https://github.com/ogabrielsete/CarZone">um projeto</a> pessoal que planejei e estruturei utilizando .NET 6 com a arquitetura MVC. 
 - 📨 Você me encontra também em:
 ![LinkedIn](https://img.shields.io/badge/Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-srodrigues/) [![Instagram](https://img.shields.io/badge/gabrielszro-833AB4?logo=instagram)](https://instagram.com/gabrielszro) [![Gmail Badge](https://img.shields.io/badge/-rodriguess7.gabriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodriguess7.gabriel@gmail.com)](mail.to:rodriguess7.gabriel@gmail.com)
 
