@@ -25,7 +25,6 @@ Gabriel, desenvolvedor backend in ???
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielsete&hide_progress=true) 
 
 <br/>
 
