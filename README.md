@@ -56,5 +56,3 @@ public class QuemSouEu
 
 }
 ````
-
-![](https://komarev.com/ghpvc/?username=ogabrielsete&color=121212)
